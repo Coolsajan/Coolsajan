@@ -43,7 +43,7 @@ Over the past few years, I've:
   RAG-powered chatbot that gives smart food recommendations based on menu and reviews.  
   *Tech: LangChain · Hugging Face · Prompt Engineering · RAG*
 
-- **✈️ Flight Log Analyzer**  
+- **✈️ [Flight Log Analyzer](https://flightloganalyst.streamlit.app/)**  
   Built a multi-agent GenAI system using AutoGen that analyzes flight logs for predictive maintenance.  
   *Tech: AutoGen · LLM · Multi-Agent Workflow*
 
